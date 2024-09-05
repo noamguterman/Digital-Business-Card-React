@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Digital-Business-Card-React/static/css/main.5d7bcd21.css",
-    "main.js": "/Digital-Business-Card-React/static/js/main.52505c55.js",
+    "main.js": "/Digital-Business-Card-React/static/js/main.2c041ee3.js",
     "static/media/profile_pic.jpg": "/Digital-Business-Card-React/static/media/profile_pic.07a86f9f957e3ab7a94d.jpg",
     "index.html": "/Digital-Business-Card-React/index.html",
     "main.5d7bcd21.css.map": "/Digital-Business-Card-React/static/css/main.5d7bcd21.css.map",
-    "main.52505c55.js.map": "/Digital-Business-Card-React/static/js/main.52505c55.js.map"
+    "main.2c041ee3.js.map": "/Digital-Business-Card-React/static/js/main.2c041ee3.js.map"
   },
   "entrypoints": [
     "static/css/main.5d7bcd21.css",
-    "static/js/main.52505c55.js"
+    "static/js/main.2c041ee3.js"
   ]
 }
